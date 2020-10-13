@@ -1,6 +1,6 @@
 # Readme
 
-Enter the following commands in your command line and make sure you have [Anaconda](https://www.anaconda.com/) ans installed.
+Enter the following commands in your command line and make sure you have [Anaconda](https://www.anaconda.com/) installed.
 
 ## Go to command prompt and Enter
 
